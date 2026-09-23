@@ -130,7 +130,7 @@
   <project path="toolchain/pgo-profiles" name="android_toolchain_pgo-profiles" remote="penguin-xe" />
 
   <!-- Vendor -->
-  <project path="vendor/aospa" name="android_vendor_aospa" remote="penguin-xe" >
+  <project path="vendor/aospa" name="android_vendor_aospa" remote="zi" >
     <linkfile src="build.sh" dest="rom-build.sh" />
     <linkfile src="json.sh" dest="generate-json.sh" />
   </project>
