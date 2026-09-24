@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/penguin-xe/manifest -b unity
+$ repo init -u https://github.com/zidnz0/penguin-xe_manifest -b unity
 ```
 
 ### Downloading the source tree ###
