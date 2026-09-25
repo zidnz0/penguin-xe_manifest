@@ -46,10 +46,7 @@
 
   <remote name="gitlab"
           fetch="https://gitlab.com" />
-
-  <remote name="zi"
-          fetch="https://github.com/zidnz0" />
-
+  
   <!-- PenguinOS -->
   <remote name="penguin"
           fetch="https://github.com/Project-PenguinOS"
@@ -59,6 +56,10 @@
           fetch="https://github.com/penguin-xe"
           revision="unity"/>
 
+  <remote name="zi"
+          fetch="https://github.com/zidnz0"
+          revision="unity"/>
+  
   <include name="aosp.xml"/>
   <include name="aospa.xml"/>
   <include name="penguin.xml"/>
